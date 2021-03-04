@@ -1,4 +1,0 @@
-F:\pycharm\PYproject\Parking_license\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\00000028.jpg 179,447,404,519,0
-F:\pycharm\PYproject\Parking_license\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\00000136.jpg 224,413,508,506,0
-F:\pycharm\PYproject\Parking_license\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\00000248.jpg 213,490,478,589,0
-F:\pycharm\PYproject\Parking_license\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\00000282.jpg 210,490,551,583,0

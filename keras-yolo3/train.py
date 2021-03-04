@@ -29,7 +29,7 @@ def train(model, annotation_path, input_shape, anchors, num_classes, log_dir='lo
     model.compile(optimizer='adam', loss={
         'yolo_loss':tf.autograph.experimental.do_not_convert(lambda y_true, y_pred: y_pred)})
     logging = TensorBoard(log_dir=log_dir)
-    checkpoint = ModelCheckpoint(log_dir + "ep{epoch:03d}-loss{loss:.3f}-val_loss{val_loss:.3f}.h5",
+    checkpoint = ModelCheckpoint(log_dir + "trained_weights.h5",
         monitor='val_loss', save_weights_only=True, save_best_only=True, period=1)
     batch_size = 16
     val_split = 0.1
