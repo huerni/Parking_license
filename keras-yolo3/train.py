@@ -13,6 +13,13 @@ from yolo3.model import preprocess_true_boxes, yolo_body, tiny_yolo_body, yolo_l
 from yolo3.utils import get_random_data
 
 import os
+gpus = tf.config.list_physical_devices('GPU')
+print(gpus)
+print(tf.test.is_gpu_available())
+
+os.environ["CUDA_VISIBLE_DEVICES"]="0"
+
+
 
 def _main():
     annotation_path = 'train.txt'
@@ -29,7 +36,7 @@ def train(model, annotation_path, input_shape, anchors, num_classes, log_dir='lo
     model.compile(optimizer='adam', loss={
         'yolo_loss':tf.autograph.experimental.do_not_convert(lambda y_true, y_pred: y_pred)})
     logging = TensorBoard(log_dir=log_dir)
-    checkpoint = ModelCheckpoint(log_dir + "trained_weights.h5",
+    checkpoint = ModelCheckpoint(log_dir + 'ep{epoch:03d}-loss{loss:.3f}-val_loss{val_loss:.3f}.h5',
         monitor='val_loss', save_weights_only=True, save_best_only=True, period=1)
     batch_size = 16
     val_split = 0.1
@@ -86,6 +93,7 @@ def create_model(input_shape, anchors, num_classes, load_pretrained=False, freez
     model_loss = Lambda(yolo_loss, output_shape=(1,), name='yolo_loss',
         arguments={'anchors': anchors, 'num_classes': num_classes, 'ignore_thresh': 0.5})(
         [*model_body.output, *y_true])
+
     model = Model([model_body.input, *y_true], model_loss)
 
     return model

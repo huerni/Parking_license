@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>car_green</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>279</xmin>
-			<ymin>398</ymin>
-			<xmax>529</xmax>
-			<ymax>509</ymax>
+			<xmin>268</xmin>
+			<ymin>454</ymin>
+			<xmax>507</xmax>
+			<ymax>547</ymax>
 		</bndbox>
 	</object>
 </annotation>

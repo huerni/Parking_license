@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<annotation>
 	<folder>JPEGImages</folder>
 	<filename>00000001.jpg</filename>
 	<path>D:\my_voc\JPEGImages\00000001.jpg</path>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>car_green</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>144</xmin>
-			<ymin>440</ymin>
-			<xmax>558</xmax>
-			<ymax>563</ymax>
+			<xmin>158</xmin>
+			<ymin>447</ymin>
+			<xmax>550</xmax>
+			<ymax>555</ymax>
 		</bndbox>
 	</object>
 </annotation>
