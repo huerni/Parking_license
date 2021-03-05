@@ -1,369 +1,369 @@
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000037.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000042.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000061.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000073.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000083.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000094.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000107.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000111.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000118.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000123.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000144.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000155.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000163.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000164.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000178.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000180.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000183.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000188.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000213.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000235.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000243.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000258.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000260.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000262.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000270.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000283.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000291.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000296.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000326.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000330.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000332.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000335.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000346.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000350.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000370.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000383.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000395.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000399.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000433.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000450.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000454.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000467.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000483.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000491.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000499.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000500.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000527.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000543.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000563.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000581.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000599.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000614.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000615.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000626.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000631.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000655.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000656.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000673.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000689.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000691.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000702.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000726.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000753.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000759.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000806.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000817.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000819.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000829.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000855.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000858.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000860.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000862.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000863.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000887.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000890.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000896.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000899.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000915.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000928.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000941.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000944.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000947.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000963.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000978.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000986.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000996.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001001.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001009.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001022.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001026.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001046.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001049.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001055.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001056.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001067.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001076.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001087.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001095.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001096.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001126.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001128.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001152.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001157.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001161.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001180.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001195.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001198.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001201.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001217.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001226.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001228.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001242.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001247.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001279.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001280.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001312.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001329.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001349.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001350.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001363.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001378.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001395.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001402.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001413.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001416.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001421.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001428.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001456.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001462.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001514.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001524.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001525.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001540.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001543.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001554.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001567.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001574.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001586.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001591.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001624.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001645.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001655.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001667.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001703.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001710.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001726.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001730.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001746.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001747.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001748.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001772.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001773.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001791.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001801.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001813.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001814.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001818.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001819.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001820.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001828.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001845.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001849.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001859.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001861.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001864.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001870.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001886.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001906.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001930.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001934.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001949.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001954.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001956.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001963.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001978.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001983.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002005.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002036.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002041.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002043.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002050.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002057.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002063.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002068.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002074.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002090.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002096.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002104.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002126.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002132.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002163.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002165.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002170.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002177.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002212.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002229.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002234.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002243.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002244.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002251.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002274.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002276.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002279.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002331.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002333.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002343.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002345.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002356.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002371.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002378.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002379.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002382.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002389.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002391.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002393.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002434.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002438.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002445.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002470.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002486.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002494.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002495.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002508.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002517.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002522.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002526.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002527.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002534.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002544.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002547.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002553.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002555.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002568.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002570.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002578.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002606.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002611.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002612.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002622.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002630.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002638.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002639.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002646.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002648.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002649.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002653.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002675.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002692.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002708.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002729.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002739.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002767.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002776.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002786.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002802.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002812.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002835.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002853.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002865.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002882.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002884.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002909.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002920.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002942.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002943.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002944.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002946.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002949.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002995.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003011.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003020.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003040.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003067.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003073.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003076.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003077.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003081.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003084.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003096.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003109.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003117.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003132.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003147.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003163.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003171.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003182.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003197.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003218.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003220.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003259.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003266.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003268.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003275.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003285.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003311.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003316.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003323.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003327.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003335.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003342.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003344.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003348.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003350.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003352.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003366.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003368.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003400.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003408.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003413.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003424.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003428.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003440.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003443.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003448.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003449.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003455.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003465.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003483.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003500.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003501.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003532.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003554.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003559.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003565.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003568.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003572.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003574.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003576.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003577.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003621.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003628.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003629.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003665.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003675.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003680.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003688.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003696.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003718.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003723.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003742.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003748.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003760.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003764.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003771.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003780.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003806.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003808.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003840.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003843.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003875.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003876.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003885.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003888.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003891.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003908.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003909.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003910.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003941.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003943.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003966.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003977.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004005.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004006.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004018.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004023.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004057.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004073.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004080.jpg
-F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004085.jpg
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000037.jpg 283,386,493,458,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000042.jpg 178,416,385,492,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000061.jpg 207,476,435,544,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000073.jpg 234,439,469,509,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000083.jpg 248,461,482,547,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000094.jpg 183,408,426,478,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000107.jpg 284,440,541,539,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000111.jpg 222,455,513,550,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000118.jpg 182,475,443,573,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000123.jpg 184,482,474,582,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000144.jpg 232,443,529,554,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000155.jpg 197,426,510,532,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000163.jpg 198,414,511,511,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000164.jpg 227,465,527,571,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000178.jpg 227,441,582,555,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000180.jpg 188,447,505,557,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000183.jpg 224,446,512,554,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000188.jpg 190,394,515,500,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000213.jpg 189,480,465,569,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000235.jpg 232,419,531,521,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000243.jpg 213,407,518,507,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000258.jpg 178,493,543,625,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000260.jpg 177,468,527,584,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000262.jpg 114,473,555,611,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000270.jpg 125,442,567,580,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000283.jpg 178,427,492,541,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000291.jpg 201,463,526,568,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000296.jpg 181,471,543,585,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000326.jpg 294,408,476,483,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000330.jpg 258,450,448,523,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000332.jpg 304,462,483,529,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000335.jpg 236,454,427,521,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000346.jpg 238,409,578,514,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000350.jpg 282,443,457,514,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000370.jpg 278,447,475,514,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000383.jpg 279,434,469,496,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000395.jpg 312,484,505,556,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000399.jpg 294,455,481,512,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000433.jpg 240,473,439,540,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000450.jpg 251,504,453,579,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000454.jpg 201,448,412,523,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000467.jpg 294,465,505,537,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000483.jpg 248,423,468,497,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000491.jpg 261,392,482,461,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000499.jpg 220,482,424,554,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000500.jpg 236,427,448,482,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000527.jpg 208,452,429,529,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000543.jpg 283,401,490,469,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000563.jpg 194,390,400,462,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000581.jpg 296,415,492,494,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000599.jpg 243,393,451,457,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000614.jpg 242,406,461,478,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000615.jpg 135,479,343,551,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000626.jpg 225,501,446,578,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000631.jpg 275,428,478,512,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000655.jpg 263,414,494,498,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000656.jpg 270,409,489,482,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000673.jpg 272,354,500,439,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000689.jpg 268,426,477,501,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000691.jpg 333,456,529,532,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000702.jpg 274,468,500,550,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000726.jpg 247,462,468,550,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000753.jpg 269,435,500,515,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000759.jpg 196,455,432,529,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000806.jpg 217,518,436,599,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000817.jpg 244,441,498,523,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000819.jpg 201,449,411,529,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000829.jpg 276,411,484,482,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000855.jpg 254,476,491,557,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000858.jpg 221,413,460,498,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000860.jpg 198,423,419,507,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000862.jpg 227,423,454,500,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000863.jpg 256,442,489,525,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000887.jpg 213,457,448,537,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000890.jpg 274,464,486,549,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000896.jpg 247,444,462,541,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000899.jpg 267,406,484,493,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000915.jpg 281,402,497,485,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000928.jpg 211,516,434,602,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000941.jpg 168,404,407,487,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000944.jpg 236,418,496,498,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000947.jpg 226,430,449,499,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000963.jpg 205,405,448,487,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000978.jpg 260,407,494,500,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000986.jpg 227,440,456,525,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00000996.jpg 270,439,514,527,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001001.jpg 274,428,511,502,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001009.jpg 274,418,494,492,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001022.jpg 242,463,465,546,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001026.jpg 240,411,449,507,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001046.jpg 219,404,448,491,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001049.jpg 190,477,433,573,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001055.jpg 129,392,614,514,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001056.jpg 276,461,528,569,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001067.jpg 217,490,482,593,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001076.jpg 243,492,488,580,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001087.jpg 179,405,422,482,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001095.jpg 220,430,483,528,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001096.jpg 296,358,528,456,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001126.jpg 235,461,461,542,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001128.jpg 184,452,428,535,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001152.jpg 168,473,403,556,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001157.jpg 257,450,490,535,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001161.jpg 249,476,515,549,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001180.jpg 239,515,477,593,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001195.jpg 227,483,457,576,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001198.jpg 248,440,478,520,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001201.jpg 290,450,535,546,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001217.jpg 286,459,540,549,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001226.jpg 242,375,500,459,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001228.jpg 238,420,494,509,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001242.jpg 281,496,520,586,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001247.jpg 247,392,497,486,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001279.jpg 199,429,433,536,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001280.jpg 191,462,440,544,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001312.jpg 177,499,438,597,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001329.jpg 225,434,475,533,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001349.jpg 224,433,481,532,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001350.jpg 226,418,482,516,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001363.jpg 218,468,463,544,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001378.jpg 257,429,510,528,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001395.jpg 258,470,526,571,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001402.jpg 225,326,482,413,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001413.jpg 226,439,458,543,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001416.jpg 196,454,426,536,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001421.jpg 188,458,488,573,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001428.jpg 279,434,540,522,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001456.jpg 233,391,494,475,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001462.jpg 218,466,474,554,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001514.jpg 284,447,542,549,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001524.jpg 214,439,482,530,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001525.jpg 190,440,467,539,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001540.jpg 208,491,465,585,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001543.jpg 215,500,506,597,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001554.jpg 208,483,504,573,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001567.jpg 185,384,456,470,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001574.jpg 233,477,477,561,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001586.jpg 217,441,457,527,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001591.jpg 242,408,493,505,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001624.jpg 197,482,481,580,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001645.jpg 213,422,462,536,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001655.jpg 228,423,496,511,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001667.jpg 192,508,467,597,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001703.jpg 248,368,494,462,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001710.jpg 185,456,460,551,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001726.jpg 205,459,458,549,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001730.jpg 206,337,467,422,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001746.jpg 247,414,517,515,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001747.jpg 254,490,508,590,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001748.jpg 243,409,494,501,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001772.jpg 241,396,496,480,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001773.jpg 241,414,501,507,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001791.jpg 212,406,491,502,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001801.jpg 239,444,504,540,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001813.jpg 249,397,519,492,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001814.jpg 233,482,479,571,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001818.jpg 203,455,504,554,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001819.jpg 208,455,517,549,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001820.jpg 181,472,406,562,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001828.jpg 177,427,464,521,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001845.jpg 218,393,501,489,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001849.jpg 194,466,489,565,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001859.jpg 211,425,483,522,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001861.jpg 221,482,471,563,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001864.jpg 251,416,540,505,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001870.jpg 205,392,472,489,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001886.jpg 272,462,550,555,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001906.jpg 208,430,461,526,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001930.jpg 192,463,481,564,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001934.jpg 181,432,469,535,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001949.jpg 203,469,508,576,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001954.jpg 190,482,499,587,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001956.jpg 219,466,524,590,0
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001963.jpg 224,508,391,568,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001978.jpg 214,500,399,585,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00001983.jpg 193,418,394,490,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002005.jpg 277,418,481,496,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002036.jpg 194,447,406,522,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002041.jpg 227,482,426,552,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002043.jpg 360,523,543,578,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002050.jpg 205,457,440,542,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002057.jpg 258,461,467,536,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002063.jpg 177,566,369,621,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002068.jpg 204,499,399,572,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002074.jpg 261,497,464,563,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002090.jpg 274,499,498,564,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002096.jpg 226,332,439,414,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002104.jpg 240,379,453,471,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002126.jpg 281,382,491,454,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002132.jpg 263,405,497,493,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002163.jpg 227,462,490,585,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002165.jpg 241,544,488,627,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002170.jpg 227,497,461,592,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002177.jpg 214,490,492,589,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002212.jpg 221,307,450,412,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002229.jpg 219,465,454,578,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002234.jpg 303,520,563,616,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002243.jpg 261,436,538,537,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002244.jpg 271,486,518,590,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002251.jpg 236,484,472,590,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002274.jpg 224,433,481,520,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002276.jpg 254,384,531,482,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002279.jpg 74,462,361,569,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002331.jpg 372,562,663,661,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002333.jpg 142,669,465,757,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002343.jpg 248,289,529,390,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002345.jpg 367,342,592,443,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002356.jpg 139,333,425,454,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002371.jpg 275,509,577,616,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002378.jpg 283,501,535,586,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002379.jpg 181,494,418,582,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002382.jpg 214,436,464,542,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002389.jpg 247,394,531,501,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002391.jpg 186,571,475,692,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002393.jpg 251,498,505,607,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002434.jpg 156,458,427,544,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002438.jpg 261,505,524,598,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002445.jpg 272,514,558,606,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002470.jpg 200,496,486,621,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002486.jpg 196,496,489,600,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002494.jpg 165,411,503,534,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002495.jpg 234,446,500,586,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002508.jpg 167,480,456,623,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002517.jpg 214,492,503,632,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002522.jpg 114,448,381,584,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002526.jpg 354,635,662,754,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002527.jpg 238,423,551,565,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002534.jpg 219,501,513,630,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002544.jpg 201,477,496,613,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002547.jpg 198,451,506,582,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002553.jpg 218,532,506,626,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002555.jpg 275,292,560,391,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002568.jpg 189,439,472,555,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002570.jpg 193,489,488,620,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002578.jpg 268,442,561,593,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002606.jpg 203,455,475,592,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002611.jpg 193,513,492,626,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002612.jpg 217,518,549,636,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002622.jpg 174,577,481,729,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002630.jpg 205,466,520,575,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002638.jpg 185,400,555,513,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002639.jpg 214,462,541,587,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002646.jpg 142,490,474,618,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002648.jpg 281,342,578,444,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002649.jpg 70,604,407,723,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002653.jpg 105,393,422,515,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002675.jpg 269,443,519,584,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002692.jpg 118,483,432,578,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002708.jpg 121,478,344,678,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002729.jpg 325,546,624,709,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002739.jpg 208,501,504,658,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002767.jpg 182,333,550,468,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002776.jpg 193,422,527,573,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002786.jpg 53,455,638,656,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002802.jpg 196,532,371,611,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002812.jpg 207,476,379,555,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002835.jpg 498,340,647,409,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002853.jpg 346,577,515,636,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002865.jpg 333,511,504,577,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002882.jpg 325,593,475,663,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002884.jpg 124,525,327,605,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002909.jpg 284,435,438,491,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002920.jpg 208,501,383,576,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002942.jpg 168,378,331,436,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002943.jpg 183,437,360,497,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002944.jpg 311,478,470,539,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002946.jpg 215,530,363,601,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002949.jpg 292,456,461,515,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00002995.jpg 235,484,439,563,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003011.jpg 399,343,553,406,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003020.jpg 222,562,397,629,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003040.jpg 235,582,399,636,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003067.jpg 351,523,503,585,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003073.jpg 312,449,486,514,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003076.jpg 172,557,354,623,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003077.jpg 253,459,435,530,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003081.jpg 261,470,436,540,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003084.jpg 241,405,434,472,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003096.jpg 365,530,541,594,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003109.jpg 268,386,412,454,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003117.jpg 369,501,514,563,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003132.jpg 281,498,431,561,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003147.jpg 198,542,354,604,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003163.jpg 386,472,574,534,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003171.jpg 160,516,367,586,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003182.jpg 206,470,361,526,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003197.jpg 227,490,408,563,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003218.jpg 170,423,348,494,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003220.jpg 240,525,418,590,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003259.jpg 257,457,419,526,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003266.jpg 206,435,419,529,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003268.jpg 239,493,425,566,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003275.jpg 238,483,383,547,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003285.jpg 284,498,460,561,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003311.jpg 232,463,422,523,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003316.jpg 278,544,451,614,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003323.jpg 405,504,564,559,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003327.jpg 312,543,455,606,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003335.jpg 333,471,519,534,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003342.jpg 298,505,476,569,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003344.jpg 427,493,584,548,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003348.jpg 298,434,463,498,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003350.jpg 398,436,561,499,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003352.jpg 277,412,435,470,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003366.jpg 300,519,472,587,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003368.jpg 232,504,401,566,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003400.jpg 260,479,467,546,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003408.jpg 257,529,450,611,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003413.jpg 236,383,390,455,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003424.jpg 328,348,526,433,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003428.jpg 362,323,504,407,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003440.jpg 179,450,346,515,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003443.jpg 226,532,390,599,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003448.jpg 227,480,397,544,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003449.jpg 189,477,348,551,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003455.jpg 224,389,407,457,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003465.jpg 282,516,486,587,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003483.jpg 255,536,422,611,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003500.jpg 254,580,408,640,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003501.jpg 394,550,560,613,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003532.jpg 257,377,435,454,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003554.jpg 251,321,424,392,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003559.jpg 305,463,497,527,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003565.jpg 281,482,463,566,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003568.jpg 257,451,424,519,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003572.jpg 328,509,501,590,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003574.jpg 385,427,533,497,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003576.jpg 281,541,458,611,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003577.jpg 233,519,417,587,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003621.jpg 334,465,519,537,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003628.jpg 328,491,514,557,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003629.jpg 232,458,418,544,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003665.jpg 318,500,486,554,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003675.jpg 278,528,444,597,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003680.jpg 296,487,462,552,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003688.jpg 211,397,371,461,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003696.jpg 303,521,468,597,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003718.jpg 312,425,490,505,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003723.jpg 363,420,546,500,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003742.jpg 261,451,441,519,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003748.jpg 228,493,404,559,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003760.jpg 234,451,371,523,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003764.jpg 333,304,539,385,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003771.jpg 277,489,477,573,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003780.jpg 276,497,456,563,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003806.jpg 201,378,411,459,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003808.jpg 206,529,386,592,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003840.jpg 306,356,498,430,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003843.jpg 375,296,588,380,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003875.jpg 240,477,422,546,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003876.jpg 272,471,484,554,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003885.jpg 267,441,424,507,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003888.jpg 419,340,597,419,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003891.jpg 227,491,434,557,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003908.jpg 267,502,477,578,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003909.jpg 333,465,546,550,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003910.jpg 293,486,484,565,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003941.jpg 247,448,429,511,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003943.jpg 335,541,510,604,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003966.jpg 127,459,560,594,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00003977.jpg 222,477,551,649,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004005.jpg 229,465,567,629,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004006.jpg 160,471,544,609,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004018.jpg 217,434,613,598,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004023.jpg 139,376,482,535,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004057.jpg 221,484,585,612,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004073.jpg 188,470,597,620,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004080.jpg 43,341,404,508,1
+F:\pycharm\PYproject\Parking_license/VOCdevkit/VOC2007/JPEGImages/00004085.jpg 272,549,625,678,1

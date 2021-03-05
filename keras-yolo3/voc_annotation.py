@@ -4,7 +4,7 @@ import os
 
 sets=[('2007', 'train'), ('2007', 'val'), ('2007', 'test')]
 
-classes = ["car"]
+classes = ["car_green", "car_blue"]
 
 
 def convert_annotation(year, image_id, list_file):

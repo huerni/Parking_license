@@ -13,11 +13,11 @@ from yolo3.model import preprocess_true_boxes, yolo_body, tiny_yolo_body, yolo_l
 from yolo3.utils import get_random_data
 
 import os
-gpus = tf.config.list_physical_devices('GPU')
-print(gpus)
-print(tf.test.is_gpu_available())
-
-os.environ["CUDA_VISIBLE_DEVICES"]="0"
+# gpus = tf.config.list_physical_devices('GPU')
+# print(gpus)
+# print(tf.test.is_gpu_available())
+#
+# os.environ["CUDA_VISIBLE_DEVICES"]="0"
 
 
 
