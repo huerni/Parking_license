@@ -21,11 +21,11 @@ import os
 tf.compat.v1.disable_v2_behavior()
 class YOLO(object):
     _defaults = {
-        "model_path": 'logs/000/ep002-loss35.030-val_loss29.945.h5',
+        "model_path": 'logs/000/ep025-loss14.953-val_loss14.679.h5',
         "anchors_path": 'model_data/yolo_anchors.txt',
         "classes_path": 'model_data/coco_classes.txt',
         "score" : 0.1,
-        "iou" : 0.45,
+        "iou" : 0.35,
         "model_image_size" : (416, 416),
         "gpu_num" : 1,
     }
@@ -172,14 +172,16 @@ class YOLO(object):
 
 def detect_video(yolo, video_path, output_path=""):
     import cv2
-    vid = cv2.VideoCapture(video_path)
+    # vid = cv2.VideoCapture(video_path)
     # vid = cv2.VideoCapture(0)
+    vid = cv2.VideoCapture("D:/ceshi.mp4")
     if not vid.isOpened():
         raise IOError("Couldn't open webcam or video")
     video_FourCC    = int(vid.get(cv2.CAP_PROP_FOURCC))
     video_fps       = vid.get(cv2.CAP_PROP_FPS)
     video_size      = (int(vid.get(cv2.CAP_PROP_FRAME_WIDTH)),
                         int(vid.get(cv2.CAP_PROP_FRAME_HEIGHT)))
+    # out = cv2.VideoWriter("D:/ceshi11.mp4", video_FourCC, video_fps, video_size)
     isOutput = True if output_path != "" else False
     if isOutput:
         print("!!! TYPE:", type(output_path), type(video_FourCC), type(video_fps), type(video_size))

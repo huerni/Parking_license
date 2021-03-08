@@ -1,0 +1,311 @@
+009375-90_83-329&498_519&557-520&565_330&563_329&500_519&502-0_0_0_24_22_27_33-72-9.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9953426 
+location: top: 491¡¢ bottom: 568¡¢ left: 315¡¢ right: 519
+
+009375-90_85-255&422_478&491-491&508_256&502_234&423_469&429-0_0_27_12_30_29_29-90-21.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9986268 
+location: top: 411¡¢ bottom: 508¡¢ left: 236¡¢ right: 491
+
+009375-90_93-181&566_364&627-365&628_183&629_195&568_377&567-0_0_7_27_24_24_4-93-31.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9974582 
+location: top: 559¡¢ bottom: 631¡¢ left: 176¡¢ right: 376
+
+010625-88_91-271&303_454&365-457&360_279&366_271&306_449&300-0_0_17_24_24_27_15-98-28.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99057937 
+location: top: 292¡¢ bottom: 368¡¢ left: 264¡¢ right: 466
+
+010625-88_93-226&480_391&551-397&541_239&553_240&495_398&483-0_0_16_21_24_24_32-132-37.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99443984 
+location: top: 479¡¢ bottom: 555¡¢ left: 223¡¢ right: 399
+
+010625-89_85-278&486_460&541-475&540_288&543_274&485_461&482-0_0_18_33_32_29_15-113-81.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9992169 
+location: top: 473¡¢ bottom: 545¡¢ left: 269¡¢ right: 469
+
+010625-89_86-245&408_441&470-437&466_258&470_248&410_427&406-0_0_22_33_10_27_32-111-31.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99843436 
+location: top: 394¡¢ bottom: 476¡¢ left: 239¡¢ right: 449
+
+010625-89_90-224&506_385&580-396&573_228&577_226&509_394&505-0_0_14_31_32_26_25-115-23.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9950312 
+location: top: 495¡¢ bottom: 586¡¢ left: 213¡¢ right: 402
+
+010625-89_91-195&462_372&528-369&531_190&529_192&465_371&467-0_0_4_3_24_27_32-118-31.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9987662 
+location: top: 456¡¢ bottom: 536¡¢ left: 177¡¢ right: 380
+
+010625-89_91-247&492_430&559-433&554_250&558_248&500_431&496-0_0_33_27_30_5_26-92-34.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9992106 
+location: top: 482¡¢ bottom: 566¡¢ left: 237¡¢ right: 445
+
+010625-90_81-312&545_521&609-527&613_317&603_304&535_514&545-0_0_28_21_29_24_32-153-24.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.998861 
+location: top: 530¡¢ bottom: 611¡¢ left: 309¡¢ right: 520
+
+010625-90_85-207&567_410&633-393&631_216&626_220&560_397&565-0_0_25_19_33_25_31-125-11.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9988756 
+location: top: 549¡¢ bottom: 639¡¢ left: 200¡¢ right: 410
+
+010625-90_88-200&425_383&493-395&487_201&489_202&423_396&421-0_0_30_25_19_33_29-108-13.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99908 
+location: top: 408¡¢ bottom: 497¡¢ left: 189¡¢ right: 406
+
+010625-90_89-187&508_372&582-379&576_184&582_182&514_377&508-0_0_11_27_33_27_10-111-40.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9994671 
+location: top: 501¡¢ bottom: 586¡¢ left: 173¡¢ right: 381
+
+010625-90_89-248&548_438&610-443&608_257&606_259&543_445&545-0_0_31_12_31_31_31-98-23.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9978089 
+location: top: 538¡¢ bottom: 612¡¢ left: 254¡¢ right: 450
+
+010625-90_89-317&457_505&524-504&520_322&520_326&462_508&462-0_0_2_25_11_25_30-85-31.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9988492 
+location: top: 451¡¢ bottom: 524¡¢ left: 312¡¢ right: 514
+
+010625-90_91-215&485_403&553-412&550_223&550_225&483_414&483-0_9_15_32_2_33_33-170-42.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99370074 
+location: top: 476¡¢ bottom: 557¡¢ left: 207¡¢ right: 416
+
+010625-90_92-268&482_457&550-450&554_263&553_274&486_461&487-0_0_31_24_21_24_30-152-45.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99342006 
+location: top: 483¡¢ bottom: 556¡¢ left: 258¡¢ right: 454
+
+010625-91_85-303&607_492&666-492&673_298&660_301&598_495&611-0_0_1_13_29_29_29-134-14.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9975462 
+location: top: 592¡¢ bottom: 674¡¢ left: 289¡¢ right: 499
+
+010625-91_85-312&458_491&518-489&525_309&519_310&458_490&464-0_0_2_9_31_24_33-158-27.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99726856 
+location: top: 448¡¢ bottom: 524¡¢ left: 295¡¢ right: 496
+
+010625-91_87-267&498_480&561-485&579_255&568_251&492_481&503-0_0_20_20_33_33_32-154-11.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9952678 
+location: top: 486¡¢ bottom: 577¡¢ left: 234¡¢ right: 502
+
+010625-91_88-222&457_400&522-391&530_222&515_226&444_395&459-0_0_20_8_30_25_30-149-18.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9981778 
+location: top: 438¡¢ bottom: 525¡¢ left: 195¡¢ right: 406
+
+010625-91_90-268&567_458&623-452&626_274&617_271&556_449&565-0_0_7_26_26_30_27-127-17.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9971532 
+location: top: 550¡¢ bottom: 627¡¢ left: 258¡¢ right: 454
+
+011875-87_92-265&465_452&540-458&531_278&548_278&480_458&463-0_0_31_29_31_26_26-94-20.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9869246 
+location: top: 466¡¢ bottom: 542¡¢ left: 265¡¢ right: 468
+
+04375-116_61-187&348_427&535-421&543_199&424_196&331_418&450-0_12_2_9_31_31_30-81-50.jpg detect_result£º
+find  0 target(s) 
+
+04625-91_88-197&480_582&602-583&610_198&601_204&471_589&480-0_0_26_28_32_28_32-126-104.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99624175 
+location: top: 465¡¢ bottom: 596¡¢ left: 181¡¢ right: 597
+
+04625-93_84-141&448_523&580-530&587_162&562_159&451_527&476-0_0_26_29_29_0_26-116-90.jpg detect_result£º
+find  2 target(s) 
+car_blue  score: 0.8228044 
+location: top: 258¡¢ bottom: 308¡¢ left: 238¡¢ right: 425
+car_blue  score: 0.9985272 
+location: top: 455¡¢ bottom: 581¡¢ left: 152¡¢ right: 536
+
+04625-95_82-206&508_569&666-573&668_214&621_199&511_558&558-0_0_7_24_26_31_20-87-140.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9977328 
+location: top: 519¡¢ bottom: 656¡¢ left: 201¡¢ right: 574
+
+04625-96_72-172&486_535&644-536&628_195&586_177&485_518&527-0_0_3_30_26_26_21-48-137.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99553066 
+location: top: 498¡¢ bottom: 623¡¢ left: 190¡¢ right: 541
+
+04875-90_91-144&475_516&612-532&605_155&611_158&485_535&479-0_1_11_33_29_33_20-78-26.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99432117 
+location: top: 462¡¢ bottom: 623¡¢ left: 123¡¢ right: 563
+
+05125-75_105-211&397_488&583-500&499_229&587_228&462_499&374-1_2_26_30_30_18_29-111-21.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.38552764 
+location: top: 387¡¢ bottom: 573¡¢ left: 224¡¢ right: 476
+
+05375-87_92-146&485_549&612-557&574_167&611_172&508_562&471-0_0_7_32_7_29_24-154-79.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.99924505 
+location: top: 479¡¢ bottom: 602¡¢ left: 169¡¢ right: 536
+
+05375-93_82-141&438_494&591-516&605_135&572_114&421_495&454-0_0_20_26_9_32_32-102-248.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9560103 
+location: top: 418¡¢ bottom: 588¡¢ left: 87¡¢ right: 556
+
+05875-90_85-113&449_542&584-553&591_113&602_117&451_557&440-0_0_22_30_26_29_17-200-49.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9748601 
+location: top: 437¡¢ bottom: 574¡¢ left: 48¡¢ right: 604
+
+08125-79_106-179&444_598&636-583&555_210&638_220&521_593&438-0_0_26_29_10_25_24-61-195.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.9874973 
+location: top: 465¡¢ bottom: 617¡¢ left: 181¡¢ right: 601
+
+08875-89_84-50&461_624&643-638&648_80&661_36&465_594&452-0_0_8_27_16_32_32-175-224.jpg detect_result£º
+find  1 target(s) 
+car_blue  score: 0.68903977 
+location: top: 436¡¢ bottom: 681¡¢ left: 0¡¢ right: 720
+
+3040028211805555554-98_84-216&449_526&580-524&580_238&532_216&449_526&485-0_0_3_24_32_31_24_33-71-75.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.99896747 
+location: top: 454¡¢ bottom: 558¡¢ left: 222¡¢ right: 523
+
+3041907552083333334-98_110-153&457_467&592-467&592_165&544_153&457_449&499-0_0_3_25_31_31_31_33-115-260.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9972963 
+location: top: 460¡¢ bottom: 582¡¢ left: 142¡¢ right: 467
+
+3042076822916666666-77_88-258&462_539&613-539&543_282&613_258&525_525&462-0_0_5_24_29_33_29_32-100-66.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9470876 
+location: top: 486¡¢ bottom: 597¡¢ left: 294¡¢ right: 505
+
+3042942708333333336-102_108-275&435_566&584-566&584_288&514_275&435_559&496-0_0_3_25_24_31_25_32-165-207.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9946736 
+location: top: 462¡¢ bottom: 552¡¢ left: 282¡¢ right: 561
+
+3043155381944444446-97_109-180&466_506&599-506&599_206&555_180&466_488&501-0_0_3_27_25_25_29_24-101-129.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.997765 
+location: top: 469¡¢ bottom: 591¡¢ left: 178¡¢ right: 519
+
+3043407118055555555-104_108-185&459_459&619-459&619_193&542_185&459_453&523-0_0_3_24_29_27_25_27-107-277.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9712968 
+location: top: 471¡¢ bottom: 592¡¢ left: 157¡¢ right: 492
+
+3045427517361111114-99_115-178&514_524&646-524&646_213&588_178&514_501&553-0_0_3_24_33_26_24_32-63-423.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.86038744 
+location: top: 513¡¢ bottom: 634¡¢ left: 190¡¢ right: 544
+
+3045636935763888886-96_87-172&426_479&576-475&576_172&536_182&426_479&458-0_0_3_24_30_27_26_30-70-59.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9936949 
+location: top: 435¡¢ bottom: 561¡¢ left: 180¡¢ right: 476
+
+3046258680555555556-76_80-201&384_493&543-493&464_204&543_201&460_489&384-0_0_3_24_27_27_30_32-43-5.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.8834999 
+location: top: 404¡¢ bottom: 510¡¢ left: 205¡¢ right: 490
+
+3046822916666666665-96_112-235&415_583&551-583&551_260&512_235&415_557&450-0_0_5_24_31_24_32_33-134-163.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9991112 
+location: top: 422¡¢ bottom: 545¡¢ left: 250¡¢ right: 578
+
+3047379557291666666-90_101-145&433_500&567-481&564_145&567_157&433_500&451-0_0_3_25_33_32_32_33-88-115.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9958252 
+location: top: 428¡¢ bottom: 578¡¢ left: 131¡¢ right: 516
+
+3048053385416666664-95_108-169&461_532&595-532&595_201&558_169&461_512&492-0_0_3_24_30_25_29_25-134-101.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9987519 
+location: top: 462¡¢ bottom: 583¡¢ left: 171¡¢ right: 526
+
+3048180338541666666-98_106-204&477_565&611-565&611_234&560_204&477_554&524-0_0_3_24_24_27_26_32-126-276.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.8184807 
+location: top: 490¡¢ bottom: 595¡¢ left: 218¡¢ right: 579
+
+3049922960069444446-100_108-210&447_541&599-541&599_236&538_210&447_528&495-0_0_3_24_26_28_32_30-57-12.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.96881235 
+location: top: 449¡¢ bottom: 563¡¢ left: 199¡¢ right: 549
+
+3050282118055555554-100_105-220&434_551&587-551&587_244&525_220&434_544&485-0_0_3_27_32_32_33_26-82-164.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.99812603 
+location: top: 443¡¢ bottom: 566¡¢ left: 226¡¢ right: 560
+
+3050555555555555555-95_105-154&442_518&582-518&582_173&543_154&442_500&468-0_0_3_24_31_27_26_32-97-194.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9979757 
+location: top: 449¡¢ bottom: 568¡¢ left: 151¡¢ right: 534
+
+3050763888888888886-87_92-149&448_493&597-493&575_171&597_149&495_483&448-0_0_3_24_30_27_31_30-123-18.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9991571 
+location: top: 468¡¢ bottom: 592¡¢ left: 151¡¢ right: 502
+
+3050941840277777775-96_110-167&397_555&529-555&529_208&484_167&397_532&424-0_0_3_17_25_28_24_29-124-302.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.99820566 
+location: top: 388¡¢ bottom: 517¡¢ left: 182¡¢ right: 550
+
+3052994791666666666-83_87-144&426_514&571-514&520_152&571_144&455_508&426-0_0_3_24_29_29_25_25-109-205.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9964692 
+location: top: 430¡¢ bottom: 564¡¢ left: 136¡¢ right: 526
+
+3053832465277777776-95_271-223&415_537&588-526&588_223&529_229&415_537&448-0_0_5_24_31_24_24_24-148-69.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9961252 
+location: top: 434¡¢ bottom: 564¡¢ left: 224¡¢ right: 557
+
+3053997395833333336-96_102-190&476_567&620-567&620_215&578_190&476_558&516-0_0_3_24_27_24_29_31-84-118.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9986522 
+location: top: 487¡¢ bottom: 616¡¢ left: 188¡¢ right: 588
+
+3055889756944444445-79_83-183&450_509&623-509&558_219&623_183&508_503&450-0_0_3_26_27_24_30_32-158-323.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9351918 
+location: top: 459¡¢ bottom: 595¡¢ left: 207¡¢ right: 492
+
+3058649088541666665-94_94-180&451_599&593-585&593_194&555_180&451_599&480-0_0_3_26_33_25_26_27-131-543.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9983716 
+location: top: 450¡¢ bottom: 589¡¢ left: 160¡¢ right: 618
+
+3058932291666666664-94_91-127&420_565&555-558&555_134&519_127&420_565&457-0_0_3_24_33_32_31_26-81-172.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9995303 
+location: top: 425¡¢ bottom: 547¡¢ left: 111¡¢ right: 580
+
+3061158854166666665-86_102-203&447_630&592-617&557_213&592_203&485_630&447-0_0_3_24_33_29_33_31-60-137.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.99886703 
+location: top: 436¡¢ bottom: 584¡¢ left: 194¡¢ right: 641
+
+3061158854166666665-97_100-159&434_586&578-558&578_173&523_159&434_586&474-0_0_3_24_33_32_28_30-64-233.jpg detect_result£º
+find  1 target(s) 
+car_green  score: 0.9995873 
+location: top: 443¡¢ bottom: 561¡¢ left: 174¡¢ right: 568
+
+time sum: 67.58822441101074s
