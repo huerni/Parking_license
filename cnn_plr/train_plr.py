@@ -23,13 +23,11 @@ model_path = "../cnn_plr/model_data/"
 def get_data():
     x_data = []
     y_num = []
-    y_label = []
     for line2 in open("../VOCdevkit/data_plr/label.txt", encoding='utf8'):
         y, x = line2.split(',')
-        if y[0] != '秦' and y[0] != '深' and y[0] != '杭' and y[0] != '海' and y[0] != '南' and y[0] != '松' and y[0] != '成':
-            x_data.append(x[1:-1])
-            print("{}:{}".format(y[0], index[y[0]]))
-            y_num.append(y)
+        x_data.append(x[1:-1])
+        print("{}:{}".format(y[0], index[y[0]]))
+        y_num.append(y)
     image_datas = []
     # for x in x_data:
     #     image = cv2.imread(data_dir + x)
