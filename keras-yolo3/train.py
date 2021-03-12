@@ -132,7 +132,7 @@ def train(model, annotation_path, input_shape, anchors, num_classes, log_dir='lo
             validation_steps=max(1, num_val//batch_size),
             epochs=50,
             initial_epoch=0,
-            callbacks=[logs_loss, checkpoint])
+            callbacks=[checkpoint])
 
     print(history.history.keys())
     model.save_weights(log_dir + 'trained_weights.h5')
